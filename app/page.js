@@ -130,7 +130,7 @@ export default function ElectricalLandingPage() {
                 className="h-9 w-9 object-contain"
               />
             </div>
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About PARASHVANATH ELECTRICALS</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About Parashvanath Electricals</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
               Welcome to your trusted destination for premium electronics. We specialize in offering a wide range of high-quality products, including the latest gadgets, home appliances, and essential accessories. With a commitment to innovation, reliability, and customer satisfaction, we provide solutions that meet the needs of both households and businesses. Discover competitive prices, expert guidance, and exceptional service—all under one roof.
             </p>
