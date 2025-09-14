@@ -2,6 +2,8 @@
 import { useState } from 'react';
 import { Phone, Mail, MapPin, Shield, Clock, Users, Facebook, Twitter, Instagram, Linkedin, Send } from 'lucide-react';
 import Image from 'next/image';
+import LogoSlider from './components/slider';
+import LogoScroller from './components/slider';
 
 export default function ElectricalLandingPage() {
   const [formData, setFormData] = useState({
@@ -117,7 +119,7 @@ export default function ElectricalLandingPage() {
           </div>
         </div>
       </section>
-
+<LogoScroller />
       {/* About Us Section */}
       <section className="py-12 bg-gradient-to-b from-gray-50 to-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
