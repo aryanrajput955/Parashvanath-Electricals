@@ -58,6 +58,7 @@ export default function ElectricalLandingPage() {
               <div className="p-1 sm:p-2.5 lg:p-3 bg-yellow-400 rounded-lg mb-2 sm:mb-3">
                 <Image
                   src="/logo2.png"
+                  priority
                   alt="PARASHVANATH ELECTRICALS logo"
                   width={100}
                   height={100}
@@ -125,6 +126,7 @@ export default function ElectricalLandingPage() {
               <Image
                 src="/about-us.png"
                 alt="PARASHVANATH ELECTRICALS Logo"
+                
                 width={24}
                 height={24}
                 className="h-9 w-9 object-contain"
