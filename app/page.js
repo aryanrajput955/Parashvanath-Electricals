@@ -64,7 +64,7 @@ export default function ElectricalLandingPage() {
                   alt="PARASHVANATH ELECTRICALS logo"
                   width={100}
                   height={100}
-                  className="h-6 sm:h-8 lg:h-10 w-6 sm:w-8 lg:w-20 object-cover"
+                  className="  sm:h-10 lg:h-10  sm:w-18 lg:w-20 object-cover"
                 />
               </div>
               <h1 className="text-3xl sm:text-4xl md:text-5xl  lg:text-6xl font-bold text-white tracking-tight">
@@ -431,7 +431,7 @@ export default function ElectricalLandingPage() {
                   alt="PARASHVANATH ELECTRICALS Logo"
                   width={104}
                   height={124}
-                  className="h-6 sm:h-8 lg:h-10 w-6 sm:w-8 lg:w-20 object-cover"
+                  className="sm:h-10 lg:h-10  sm:w-18 lg:w-20 object-cover"
                 />
               </div>
               <span className="text-2xl font-bold text-white">PARASHVANATH ELECTRICALS</span>
