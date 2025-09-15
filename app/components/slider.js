@@ -20,6 +20,7 @@ const LogoGrid = () => {
     '/15.webp',  
     '/16.png',
     '/17.webp',
+    '/18.png',
   ];
 
   return (
