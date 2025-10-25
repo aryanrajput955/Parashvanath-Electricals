@@ -162,7 +162,7 @@ export default function ElectricalLandingPage() {
                   <Phone className="h-8 w-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Bhavesh</h3>
-                <p className="text-gray-600 mb-6">Senior Electrical Technician</p>
+                <p className="text-gray-600 mb-6">CEO</p>
                 <a 
                   href="tel:8148489383" 
                   className="inline-flex items-center justify-center w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-6 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg cursor-pointer"
@@ -194,7 +194,7 @@ export default function ElectricalLandingPage() {
                   <Phone className="h-8 w-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Hitesh</h3>
-                <p className="text-gray-600 mb-6">Lead Electrician</p>
+                <p className="text-gray-600 mb-6">CO</p>
                 <a 
                   href="tel:8056529213" 
                   className="inline-flex items-center justify-center w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-4 px-6 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg cursor-pointer"
